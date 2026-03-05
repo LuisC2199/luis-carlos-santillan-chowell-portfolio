@@ -291,7 +291,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase tracking-widest">GitHub</p>
-                  <p className="text-white font-medium">@luiscarlos</p>
+                  <p className="text-white font-medium">@LuisC2199</p>
                 </div>
               </a>
             </div>
