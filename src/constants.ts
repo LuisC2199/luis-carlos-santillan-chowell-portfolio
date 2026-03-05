@@ -115,7 +115,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["Next.js", "TypeScript", "Convex", "React", "Tailwind CSS"],
     focus: "Designed with strong access control architecture and scalable backend logic.",
-    links: { github: "https://github.com/LuisC2199/helyx", demo: "#" }
+    links: { github: "", demo: "" }
   },
   {
     id: "donas",
@@ -129,7 +129,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["Next.js", "Firebase", "Firestore", "React", "Tailwind CSS"],
     focus: "Built scalable order workflows and a structured database system.",
-    links: { github: "https://github.com/LuisC2199/donas-plantivoro", demo: "#" }
+    links: { github: "https://github.com/LuisC2199/DonasPlantivoro", demo: "https://donas-plantivoro-1.web.app/" }
   },
   {
     id: "el-gallo",
@@ -143,7 +143,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["Astro", "Tailwind CSS", "Markdown", "Static Site Generation"],
     focus: "Designed for performance, SEO, and clean editorial design.",
-    links: { github: "https://github.com/LuisC2199/el-gallo-galante", demo: "#" }
+    links: { github: "https://github.com/LuisC2199/el-gallo-galante", demo: "https://el-gallo-galante.luiscs210699.workers.dev/" }
   },
   {
     id: "ghl-analytics",
@@ -157,7 +157,7 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["Next.js", "TypeScript", "Tailwind CSS", "REST APIs", "Data Visualization"],
     focus: "Built to help SaaS agencies analyze customer data and automate insights.",
-    links: { github: "https://github.com/LuisC2199/ghl-analytics", demo: "#" }
+    links: { github: "https://github.com/LuisC2199/Affiliate-Analytics-Dashboard", demo: "" }
   },
   {
     id: "cero",
@@ -170,6 +170,6 @@ export const PROJECTS: Project[] = [
     ],
     techStack: ["ROS", "C++", "Robotics Sensors", "Embedded Systems"],
     focus: "Developed robotics software and hardware integration.",
-    links: { github: "https://github.com/LuisC2199/CERO", demo: "#" }
+    links: { github: "", demo: "" }
   }
 ];
